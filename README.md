@@ -1,3 +1,8 @@
+<img width="960" height="544" alt="1000874347" src="https://github.com/user-attachments/assets/c860a482-26a9-429f-9ec3-0971cfd78911" />
+<img width="960" height="544" alt="1000874348" src="https://github.com/user-attachments/assets/49df164f-e2a0-4853-b455-132326e6abc6" />
+<img width="960" height="544" alt="1000874350" src="https://github.com/user-attachments/assets/02a52689-0363-4005-bea8-12c64f8cdaae" />
+<img width="960" height="544" alt="1000874351" src="https://github.com/user-attachments/assets/208c1cd1-b6a4-49f6-84c3-e1a0f6b93c6b" />
+<img width="960" height="544" alt="1000874349" src="https://github.com/user-attachments/assets/21ab921d-bab1-44a5-9fdb-4211cf4a62c4" />
 🎮 VitaRPS5 v4.2.2 – Versión Latina Neón
 
 VitaRPS5 en español latino | Traducción y personalización visual
